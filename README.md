@@ -1,6 +1,4 @@
-Aqui está o README enriquecido com explicações sobre HTML semântico, imagens, e âncoras:
 
----
 
 <h1 align="center">🌐 Aulas de HTML</h1>
 <h2 align="center">Base para o Desenvolvimento Web</h2>
